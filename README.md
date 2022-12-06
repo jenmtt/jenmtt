@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jenifer and I am a software developer student. 
 
-- 🔭 Atualmente trabalho com desenvolvimento de sistemas na @evermart.
-- 🌱 Atualmente faço curso de Análise e Desenvolvimento de Sistemas e também de Desenvolvimento Web Full Stack.
+- 🔭 Trabalho com desenvolvimento de sistemas na @evermart.
+- 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas e também de Desenvolvimento Web Full Stack.
 
 ##
 <br>
